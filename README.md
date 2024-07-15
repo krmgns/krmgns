@@ -6,6 +6,5 @@
 - Speaks Turkish, English, and a tinge of العربية, Deutsch, Español 🗣️
 - A Personal Trainer, Martial Artist, Muay Thai practiser 🙏
 
-You can reach me anytime on [LinkedIn](https://linkedin.com/in/krmgns), and stalk me on [StackOverFlow](https://stackoverflow.name/kerem).
-
+You can reach me anytime on [LinkedIn](https://linkedin.com/in/krmgns), and stalk me on [StackOverFlow](https://stackoverflow.name/kerem). <br>
 Cheers!
