@@ -1,6 +1,6 @@
 ### 👋 Hi there, this is Kerem;
 
-- A Software Developer from the Blue Planet 🌍
+- A Software Developer from the Blue Globe 🌍
 - A Personal Trainer, Martial Artist, Muay Thai practiser 🙏
 - Creator of [Froq! Framework](https://github.com/froq) and core maintainer 🐸
 - Writes code in PHP, Python, JavaScript, TypeScript, and a pinch of Go and Java 🎉
